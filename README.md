@@ -15,22 +15,19 @@ This is a **fully designed prototype** — all screens, user flows, and features
 ## 📸 Screenshots
 
 > _Add screenshots of your app here. Recommended screens to capture:_
-> - [ ] Landing / onboarding screen
-> - [ ] KYC upload flow
 > - [ ] Global portfolio dashboard
-> - [ ] Stock detail + order placement screen
+> - [ ] <img width="268" height="521" alt="image" src="https://github.com/user-attachments/assets/d8f1df08-58fa-4da4-bf0b-56cd1ae53b79" />
+
+> - [ ] Explore and invest
+> - [ ] <img width="274" height="525" alt="image" src="https://github.com/user-attachments/assets/15bc05ba-036f-4e93-a421-e539c0a601e9" />
+
 > - [ ] Multi-currency wallet
+> - [ ] <img width="255" height="525" alt="image" src="https://github.com/user-attachments/assets/2ede78f1-0048-4a78-93a6-3ea40b86d513" />
+
+
 > - [ ] News & AI recommendations feed
-> - [ ] Pricing / brokerage comparison page
-> - [ ] Alerts & notifications screen
+> - [ ] <img width="255" height="527" alt="image" src="https://github.com/user-attachments/assets/1518545c-6182-4ecd-89f9-899e1fa8a07f" />
 
-_Replace this section with your actual screenshots once captured:_
-
-```
-![Dashboard](screenshots/dashboard.png)
-![Trading](screenshots/trading.png)
-![News](screenshots/news.png)
-```
 
 🎥 **Demo Walkthrough:**
 
@@ -60,7 +57,6 @@ Most Indian students who want to invest globally face the same problems:
 - Mobile + email sign-up with OTP verification
 - SEBI/FEMA-compliant KYC flow: PAN, Aadhaar, bank account upload
 - Encrypted document storage with re-KYC support when regulations change
-- Multi-factor authentication (OTP + optional biometrics)
 
 ### 📊 Global Portfolio Dashboard
 - Holdings broken down by **country**, **asset class** (stocks, ETFs, bonds), and **currency**
